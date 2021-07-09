@@ -25,7 +25,7 @@ Testing Fetch API on local text &amp; JSON files and external API(JSONPlaceholde
 ### Links
 
 - [Live Site URL](https://albert-book-list.netlify.app/)
-- [Youtube](https://youtu.be/jr60ddkaWqY)
+- [Youtube]
 
 ### Built with
 
