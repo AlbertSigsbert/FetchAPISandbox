@@ -8,7 +8,7 @@ Testing Fetch API on local text &amp; JSON files and external API(JSONPlaceholde
 - Validation and success messages
 
 ### Preview
-![BookList Demo](img/BookList.gif)
+![Demo](img/FetchAPI.gif)
 
 ### Screenshot
 
