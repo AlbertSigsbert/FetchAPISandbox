@@ -5,7 +5,7 @@ Testing Fetch API on local text &amp; JSON files and external API(JSONPlaceholde
 - Fetch Data on text file(async)
 - Fetch Data from JSON file(async)
 -  Fetch Data from external API(async)
-- Validation and success messages
+
 
 ### Preview
 
